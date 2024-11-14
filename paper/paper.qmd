@@ -4,6 +4,7 @@ subtitle: "Spotlight on North Carolina's Role as a Battleground State"
 author: 
   - David Qi
   - Haobo Ren
+  - Ruikang Wang
 thanks: "Code and data are available at: https://"
 date: today
 date-format: long
@@ -27,7 +28,7 @@ library(ggplot2)
 
 # Introduction {#sec-intro}
 
-
+Many people think that only Asians are obsessed with tea, but after the UK passed tea around the world, North America are beginning to embrace the culture of tea.  This paper will examine the price of green tea among various suppliers, explore the reasons for the price changes, and study the pattern of price changes among various supermarkets through the vehicle of green tea.
 
 
 
